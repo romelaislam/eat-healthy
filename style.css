@@ -25,7 +25,7 @@ h1 {
     font-size: 20px;
 }
 
-section {
+.section-1 {
     display: flex;
 }
 
@@ -74,4 +74,28 @@ section {
 
 .section-3{
          text-align: center;
+}
+
+/* part-4 */
+
+.h1-4{
+   color: black;
+   font-size: 50px;
+}
+.section-4{
+    display: flex;
+    padding: 5%;
+}
+.hight-width-4{
+    width: 90%;
+    padding: 5%;
+}
+.shadow{
+    box-shadow: 10px 5px 10px 5px rgb(220, 201, 201);
+    border-radius: 5%;
+    padding: 0%;
+    margin: 50px;
+}
+.padding{
+        padding-left: 4%;
 }
