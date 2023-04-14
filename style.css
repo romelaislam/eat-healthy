@@ -15,7 +15,8 @@ h1 {
     font-weight: 800;
     color: rgb(90, 86, 86);
 }
-.h1-2{
+
+.h1-2 {
     font-size: 50px;
 }
 
@@ -47,17 +48,19 @@ h1 {
     color: white;
     padding: 10px 30px;
     border-radius: 30px;
-   
+
 
 }
 
 /* part-2 */
-.section-2{
+
+.section-2 {
     display: flex;
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
 
 }
+
 .img-2 {
     width: 40%;
     padding-left: 20%;
@@ -67,35 +70,76 @@ h1 {
     width: 50%;
     padding-right: 10%;
 }
-.p2{
+
+.p2 {
     font-size: 20px;
 }
+
 /* part-3 */
 
-.section-3{
-         text-align: center;
+.section-3 {
+    text-align: center;
 }
 
 /* part-4 */
 
-.h1-4{
-   color: black;
-   font-size: 50px;
+.h1-4 {
+    color: black;
+    font-size: 50px;
 }
-.section-4{
+
+.section-4 {
     display: flex;
     padding: 5%;
 }
-.hight-width-4{
+
+.hight-width-4 {
     width: 90%;
     padding: 5%;
 }
-.shadow{
+
+.shadow {
     box-shadow: 10px 5px 10px 5px rgb(220, 201, 201);
     border-radius: 5%;
     padding: 0%;
     margin: 50px;
+    margin-bottom: 0%;
 }
-.padding{
-        padding-left: 4%;
+
+.padding {
+    padding-left: 4%;
+}
+
+/* part-5 */
+.h1-5 {
+    font-weight: 900;
+    font-size: 50px;
+    color: black;
+}
+
+.shadow-5 {
+    box-shadow: 10px 5px 10px 5px rgb(220, 201, 201);
+    border-radius: 15px;
+    padding: 1%;
+    margin: 100px;
+}
+
+.possition {
+    margin-left: 17%;
+    padding: 0%;
+}
+
+/* footer */
+.h1-6{
+    font-size: 35px ;
+}
+.p-6{
+    color: white;
+}
+.bg{
+    background-color: black;
+    padding: 7%;
+    padding-top: 2%;
+    margin: 0%;
+    text-align: center;
 }
