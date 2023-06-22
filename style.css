@@ -37,6 +37,7 @@ h1 {
 
 .img {
     width: 80%;
+
 }
 
 .link-button {
@@ -56,7 +57,7 @@ h1 {
 
 .section-2 {
     display: flex;
-    background-image: url(./images/shapes/7.png);
+    background-image: url(./images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
 
 }
@@ -64,6 +65,7 @@ h1 {
 .img-2 {
     width: 40%;
     padding-left: 20%;
+    display: block;
 }
 
 .hight-width-2 {
@@ -130,13 +132,15 @@ h1 {
 }
 
 /* footer */
-.h1-6{
-    font-size: 35px ;
+.h1-6 {
+    font-size: 35px;
 }
-.p-6{
+
+.p-6 {
     color: white;
 }
-.bg{
+
+.bg {
     background-color: black;
     padding: 7%;
     padding-top: 2%;
